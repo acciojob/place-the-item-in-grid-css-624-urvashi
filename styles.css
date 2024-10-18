@@ -1,12 +1,10 @@
  .holder{
 	 display:grid;
 	 grid-template-columns:repeat(2,200px);
-	  grid-template-rows:repeat(2,200px);
+	 grid-template-rows:repeat(2,200px);
  }
 
-.item{
-	height:100px;
-}
+
 .item-1{
 background-color:blue;
 }
